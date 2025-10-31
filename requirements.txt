@@ -1,7 +1,7 @@
 fastapi
 pandas
 numpy
-scikit-learn
+catboost
 loguru
 # linters
 black
