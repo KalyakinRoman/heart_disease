@@ -1,0 +1,16 @@
+fastapi
+pandas
+numpy
+scikit-learn
+loguru
+# linters
+black
+ruff
+pylint
+# dev
+ipykernel
+seaborn
+matplotlib
+# test
+pytest
+pytest-cov
