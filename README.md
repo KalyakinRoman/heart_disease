@@ -12,3 +12,9 @@
 
 ## Запуск приложения из cmd
 uvicorn src.heart_disease.app:app
+
+
+## Запуск из Docker
+
+docker build . -t heart_disease:latest
+docker run -p 8000:8000 heart_disease
