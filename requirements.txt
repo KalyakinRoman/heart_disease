@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pandas
+numpy
+catboost
+loguru
+# linters
+black
+ruff
+pylint
+# dev
+ipykernel
+seaborn
+matplotlib
+# test
+pytest
+pytest-cov
